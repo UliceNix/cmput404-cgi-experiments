@@ -1,0 +1,20 @@
+Answers:
+Q1.
+	# Printing out environment variables
+	cgi.print_environ()
+
+Q2.
+	QUERY_STRING
+
+Q3.
+	HTTP_USER_AGENT
+
+Q4.
+	Through standout input
+
+Q5.
+	e.g Set-Cookie: loggedin=true
+Q6.
+	e.g Cookie: loggedin=true
+
+
